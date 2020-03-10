@@ -1,6 +1,6 @@
 rootProject.name = '5Ions-calculation'
 
-include 'calculation.client'
-include 'calculation.model'
-include 'calculation.service'
-include 'calculation.controller'
+include 'calculation.client',
+        'calculation.model',
+        'calculation.service',
+        'calculation.controller'
