@@ -1,3 +1,5 @@
 dependencies {
+    implementation project(':calculation.model')
+
     implementation 'org.springframework.boot:spring-boot-starter-web'
 }
